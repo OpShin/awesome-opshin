@@ -23,8 +23,8 @@
 ## Tutorials
 
 - [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) - A comprehensive set of educational examples, based on the Plutus Pioneer Program
-- [Gimbalabs PBL 2023](https://plutuspbl.io/modules/101/1017) - A step by step guide featuring various Smart Contract Languages, also featuring OpShin (WIP)
-- [The OpShin Book](https://book.opshin.dev/) - A comprehensive guide introducing to OpShin (TBD)
+- [[WIP] Gimbalabs PBL 2023](https://plutuspbl.io/modules/101/1017) - A step by step guide featuring various Smart Contract Languages, also featuring OpShin (WIP)
+- [[WIP] The OpShin Book](https://book.opshin.dev/) - A comprehensive guide introducing to OpShin
 
 ## Examples
 

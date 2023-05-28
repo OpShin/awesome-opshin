@@ -11,9 +11,11 @@
 ---
 
 - [Dapps](#Dapps)
+- [Tutorials](#Tutorials)
 - [Examples](#Examples)
 - [Videos](#Videos)
 - [Libraries](#Libraries)
+- [More](#More)
 
 
 ## Dapps
@@ -44,7 +46,7 @@
 - [opshin.std](https://github.com/OpShin/opshin/tree/main/opshin/std) - A library with yet-to-be-determined standard functions, math, fractions etc.
 - [opshin.ledger](https://github.com/OpShin/opshin/tree/main/opshin/ledger) - The opshin definitions of the Plutus Ledger API
 
-## Related projects
+## More
 
 - [Ecosystem Overview](https://aiken-lang.org/ecosystem-overview) - A comprehensive overview on Programming Languages for Smart Contracts on Cardano
 - [hebi](https://github.com/OpShin/hebi) - the small sister project of opshin with significantly improved performance (at the cost of more restrictiveness)

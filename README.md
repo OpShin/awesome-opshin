@@ -6,7 +6,7 @@
 
 ---
 
-> Anything to contribute? [Make a pull request](https://github.com/OpShin/awesome-opshin/pulls) that adds your project to this list :heart:!
+> Something missing? [Open a pull request](https://github.com/OpShin/awesome-opshin/pulls) to add a project!
 
 ---
 

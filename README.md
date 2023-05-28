@@ -32,9 +32,9 @@
 
 ## Examples
 
+- [Vesting & Oracle Example](https://github.com/cardano-apexpool/opshin-smart-contract-examples/tree/main/vesting_oracle_fee) - Using a Vesting contract together with a permissioned Oracle by [@cardano-apexpool](https://github.com/cardano-apexpool)
 - [opshin/examples](https://github.com/OpShin/opshin/tree/main/examples) - The standard OpShin Examples
 - [opshin-starter-kit](https://github.com/OpShin/opshin-starter-kit) - Basic repository for starting on Demeter.run
-- [Vesting & Oracle Example](https://github.com/cardano-apexpool/opshin-smart-contract-examples/tree/main/vesting_oracle_fee) - Example for using a Vesting contract together with a permissioned Oracle by [@cardano-apexpool](https://github.com/cardano-apexpool)
 
 ## Videos
 

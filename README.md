@@ -1,18 +1,14 @@
 <p align="center">
-    <img src="awesome-opshin.png" alt="Awesome OpShin"/>
+    <img src="awesome-opshin.png" alt="Awesome OpShin" width="200px"/>
     <br/>
-    <strong>An collection of (curated) awesome <a href="https://opshin.dev" alt="opshin.dev"/>OpShin</a> DApps, tutorials & other cool stuff.</strong>
+    <strong>Awesome <a href="https://opshin.dev" alt="opshin.dev"/>OpShin</a> DApps, tutorials, etc</strong>
 </p>
 
 ---
 
-> **Note**
->
 > Anything to contribute? [Make a pull request](https://github.com/OpShin/awesome-opshin/pulls) that adds your project to this list :heart:!
 
 ---
-
-# Awesome OpShin
 
 - [Dapps](#Dapps)
 - [Examples](#Examples)

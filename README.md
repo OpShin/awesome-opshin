@@ -38,7 +38,7 @@
 
 ## Videos
 
-- [Developing Smart Contracts with OpShin & PyCardano](https://www.youtube.com/watch?v=Ale01hnxZEg&list=PLNEK_Ejlx3x0ivViR3g9lAkB4Qj3iejp1&index=4) - A comprehensive introduction to OpShin as part of the Plutus Pioneer Program
+- [Developing Smart Contracts with OpShin & PyCardano](https://www.youtube.com/watch?v=Ale01hnxZEg&list=PLNEK_Ejlx3x0ivViR3g9lAkB4Qj3iejp1&index=4) - A comprehensive introduction to OpShin as part of the PPP
 - [Emurgo Academy Workshop on OpShin](https://www.youtube.com/watch?v=S-GgkDsUBpQ) - A presentation of OpShin with collaborative coding
 - [Interview with OpShin at Learn Cardano](https://www.youtube.com/watch?v=JXmTpLZnHjU) - An informal interview and introduction to OpShin
 - [OpShin at the European Townhall](https://youtu.be/RcnDpwT9LvQ?t=310) - Very quick introduction to Smart Contract writing with OpShin

@@ -20,7 +20,9 @@
 
 ## Dapps
 
-- TODO! 
+- [onchain-token-verification by MuesliSwap](https://github.com/MuesliSwapTeam/onchain-token-verification) - A framework for logging verification metadata and trusters on chain built with OpShin
+- [nescrow.xyz](https://nescrow.xyz/) - An entire market place built with OpShin and PyCardano
+- Add your projext here!
 
 ## Tutorials
 
@@ -48,6 +50,7 @@
 
 ## More
 
+- [PyCardano](https://github.com/Python-Cardano/pycardano) - The off-chain library compatible with OpShin
 - [Ecosystem Overview](https://aiken-lang.org/ecosystem-overview) - A comprehensive overview on Programming Languages for Smart Contracts on Cardano
 - [hebi](https://github.com/OpShin/hebi) - the small sister project of opshin with significantly improved performance (at the cost of more restrictiveness)
 - [plutus-bench](https://github.com/OpShin/plutus-bench) - a comprehensive unified framework to compare the performance of Smart Contract languages

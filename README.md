@@ -21,7 +21,7 @@
 ## DApps
 
 - [onchain-token-verification by MuesliSwap](https://github.com/MuesliSwapTeam/onchain-token-verification) - A framework for logging verification metadata and trusters on chain built with OpShin
-- [nescrow.xyz](https://nescrow.xyz/) - An entire market place built with OpShin and PyCardano by @while0x1
+- [nescrow.xyz](https://nescrow.xyz/) - An entire market place built with OpShin and PyCardano by [@while0x1](https://github.com/while0x1)
 - Add your projext here!
 
 ## Tutorials
@@ -34,7 +34,7 @@
 
 - [opshin/examples](https://github.com/OpShin/opshin/tree/main/examples) - The standard OpShin Examples
 - [opshin-starter-kit](https://github.com/OpShin/opshin-starter-kit) - Basic repository for starting on Demeter.run
-- [Vesting & Oracle Example](https://github.com/cardano-apexpool/opshin-smart-contract-examples/tree/main/vesting_oracle_fee) - Example for using a Vesting contract together with a permissioned Oracle by @cardano-apexpool
+- [Vesting & Oracle Example](https://github.com/cardano-apexpool/opshin-smart-contract-examples/tree/main/vesting_oracle_fee) - Example for using a Vesting contract together with a permissioned Oracle by [@cardano-apexpool](https://github.com/cardano-apexpool)
 
 ## Videos
 

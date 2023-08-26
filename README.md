@@ -23,7 +23,7 @@
 ## DApps
 
 - [T Minus One](https://tminusone.pro) - A fungible token creator dashboard, mint, vest, sell, etc
-- [Kalyx](https://kalyx.IOG) - dCFD trading for ADA/USD on Cardano
+- [Kalyx](https://kalyx.io) - dCFD trading for ADA/USD on Cardano
 - [onchain-token-verification by MuesliSwap](https://github.com/MuesliSwapTeam/onchain-token-verification) - A framework for logging verification metadata and trusters on chain built with OpShin
 - [nescrow.xyz](https://nescrow.xyz/) - An entire market place built with OpShin and PyCardano by [@while0x1](https://github.com/while0x1)
 - Add your projext here!

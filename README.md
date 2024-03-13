@@ -22,7 +22,8 @@
 
 ## DApps
 
-- [MuesliSwap Onchain Governance](https://github.com/MuesliSwapTeam/muesliswap-onchain-governance) - A complete governance system built in OpShin by MuesliSwap
+- [MuesliSwap Onchain Governance](https://github.com/MuesliSwapTeam/muesliswap-onchain-governance) - A complete governance system, including tallies, treasury and sample upgradeable contracts
+- [Teddy Swap uADA](https://github.com/teddy-swap/uada-contracts) - A wrapped ADA token for decentralizing liquidity pool stake
 - [T Minus One](https://tminusone.pro) - A fungible token creator dashboard, mint, vest, sell, etc
 - [Kalyx](https://kalyx.io) - dCFD trading for ADA/USD on Cardano
 - [onchain-token-verification by MuesliSwap](https://github.com/MuesliSwapTeam/onchain-token-verification) - A framework for logging verification metadata and trusters on chain built with OpShin

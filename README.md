@@ -23,6 +23,7 @@
 ## DApps
 
 - [MuesliSwap Onchain Governance](https://github.com/MuesliSwapTeam/muesliswap-onchain-governance) - A complete governance system, including tallies, treasury and sample upgradeable contracts
+- [STEAK Protocol](https://github.com/STEAKProtocol/STEAKProtocol) - A proof of stake based chain to provide provably random hashes for smart contract.
 - [Teddy Swap uADA](https://github.com/teddy-swap/uada-contracts) - A wrapped ADA token for decentralizing liquidity pool stake
 - [T Minus One](https://tminusone.pro) - A fungible token creator dashboard, mint, vest, sell, etc
 - [Kalyx](https://kalyx.io) - dCFD trading for ADA/USD on Cardano
